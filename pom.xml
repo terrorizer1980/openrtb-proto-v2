@@ -56,7 +56,7 @@
     <fasterxmlJacksonVersion>2.10.2</fasterxmlJacksonVersion>
     <injectVersion>1</injectVersion>
     <junitVersion>4.13</junitVersion>
-    <metricsVersion>4.1.6</metricsVersion>
+    <metricsVersion>4.2.0</metricsVersion>
     <protobufVersion>3.11.1</protobufVersion>
     <slf4jVersion>1.7.30</slf4jVersion>
     <truthVersion>1.0.1</truthVersion>
@@ -171,7 +171,7 @@
         <configuration>
           <windowtitle>${project.name}</windowtitle>
           <notimestamp>true</notimestamp>
-          <excludePackageNames />
+          <excludePackageNames/>
           <additionalOptions>
             <additionalOption>-Xdoclint:none</additionalOption>
           </additionalOptions>
